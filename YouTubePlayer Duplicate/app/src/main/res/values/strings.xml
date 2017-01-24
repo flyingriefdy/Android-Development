@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_youtube">Youtube Player</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_standalone">Standalone layer</string>
+    <string name="play_video">Play Video</string>
+    <string name="playlist">Playlist</string>
+    <string name="play_single_video">Play single video</string>
+    <string name="standalone">Standalone</string>
+</resources>
